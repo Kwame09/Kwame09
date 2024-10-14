@@ -35,10 +35,6 @@
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&style=flat-square" alt="Angular" />
 </a>
 
-<h2 class="heading-element" dir="auto"> Github Stat</h2>
-
-[![Kwame's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwame09)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2 class="heading-element" dir="auto">📊 Top Languages</h2>
 
 <img src="https://camo.githubusercontent.com/7e25c9107c4bdfcc1ee5f509c905949f021d009b6051aaa3a827c4475a95696b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d66616973616c2d736579266c61796f75743d636f6d70616374267468656d653d6461726b266c616e67735f636f756e743d3826686964653d646f636b657266696c652c7368656c6c2c626174636866696c652c6d616b6566696c652c6861636b2c63" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-sey&amp;layout=compact&amp;theme=dark&amp;langs_count=8&amp;hide=dockerfile,shell,batchfile,makefile,hack,c" style="max-width: 100%;">
