@@ -4,7 +4,7 @@
 
 <h2 class="heading-element" dir="auto">About Me</h2>
 
-<p dir="auto">Kwame Dohgbefua is a FrontEnd Developer based in Takoradi, Ghana. Kwame has gained experience working as a Frontend Developer and Database Adminstrator. He possesses a diverse skill set in programming languages, frameworks, platforms, and soft skills, and he has worked on several projects ranging from website development to enterprise resource planning platforms and mentoring apps.</p>
+<p dir="auto">Meet Kwame Dohgbefua, a talented Frontend Developer based in Takoradi, Ghana. With excellent experience in both frontend development and database administration, Kwame has honed his expertise across a broad spectrum of programming languages, frameworks, and platforms. His impressive skill set is complemented by excellent soft skills, making him a valuable asset to any team. Kwame's extensive project portfolio showcases his versatility, with successful deliveries ranging from cutting-edge website development to comprehensive enterprise resource planning platforms and innovative mentoring apps. His dedication to excellence and passion for innovative solutions make him a standout in his field.</p>
 
 <h2 class="heading-element" dir="auto">🔧 Technologies &amp; Tools</h2>
 
