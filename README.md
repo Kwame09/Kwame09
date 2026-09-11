@@ -28,16 +28,22 @@ See more at [kwame09.github.io](https://kwame09.github.io)
 **Frontend Developer — [TechlineAfrica](https://github.com/TechlineAfrica)** · 2024  
 Commercial product work on two platforms, in a team alongside other engineers.
 
-*E-commerce platform with AR product viewing* — built the augmented-reality
+**HR ERP platform** (TypeScript) — built six modules across the system:
+**payroll**, including staff loan submission and approval workflows and the
+payroll dashboard; **leave management**, with request lists and an approval
+dashboard; **employee onboarding**, with step tracking and assignment;
+employee records and self-service; a medical-provider directory wired to the
+health-records API; and the in-app notification component. 35 commits over
+four weeks, May–June 2024.
+
+**E-commerce platform with AR product viewing** — built the augmented-reality
 product view, the home-decor configurator, the product gallery and trend feed,
 and the full checkout path including **card and mobile-money payment
-integration**. 61 commits over three months, and I handled merging several
+integration**. 61 commits, April–July 2024, and I handled merging several
 colleagues' feature branches into `develop`.
 
-*HR / health platform (kaz-360, TypeScript)* — built the medical-providers
-directory page and the in-app notification component.
-
-Source is the client's and stays private; happy to talk through any of it.
+Source belongs to the client and stays private — happy to talk through any of
+it in detail.
 
 ## 🔧 Core Stack
 
