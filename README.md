@@ -59,11 +59,6 @@ I believe in **AI-assisted engineering** — AI handles repetitive work, I focus
 
 Best engineers won't be those who use AI the most — they'll be those who understand how to combine engineering with AI.
 
-## 📊 Stats
-
-[![Kwame's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kwame09&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=kwame09&theme=dark&show_icons=true&hide_border=true&count_private=true)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kwame09&theme=dark&show_icons=true&hide_border=true&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=kwame09&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
 ## 📫 Let's Connect
 
 - **[LinkedIn](https://www.linkedin.com/in/kwame-dogbefu-0116b43b9)** — Current roles and open to work status
