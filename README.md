@@ -61,9 +61,9 @@ Best engineers won't be those who use AI the most — they'll be those who under
 
 ## 📊 Stats
 
-[![Kwame's GitHub Stats](https://github-readme-stats-kwame-dohgbefus-projects.vercel.app/api?username=kwame09&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github-readme-stats-kwame-dohgbefus-projects.vercel.app/api?username=kwame09&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![Kwame's GitHub Stats](https://github-readme-stats-kwame-dohgbefus-projects.vercel.app/api?username=kwame09&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)](https://github-readme-stats-kwame-dohgbefus-projects.vercel.app/api?username=kwame09&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs)
 
-*Self-hosted, and counting private repositories — most of my work is in them.*
+*Self-hosted, counting private repositories and all-time commits — most of my work is in private repos.*
 
 ## 📫 Let's Connect
 
